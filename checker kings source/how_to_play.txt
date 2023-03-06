@@ -1,0 +1,23 @@
+r_key: replay the last move.
+
+n_key: restart the last game from the begening.
+
+f_key: enter & exit full screen mode.
+
+e_key: exit & return to title screen.
+
+up & down arrows_keys: change difficulty.
+
+left and right arrows_keys: change pawn type.
+
+move pawns with the mouse by clicking on them.
+
+jump is mandatory,jump by clicking on the jumping pawn.
+
+if you have several  jump for one pawn:
+
+select where to jump with the mouse then click on the pawn to jump.
+
+if you have any questions or suggestions contatact me on: tomelyray@gmail.com
+
+
